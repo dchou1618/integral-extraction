@@ -1,0 +1,10 @@
+Please convert the following image of an integral into latex. 
+(1) If there are no integrals, return an empty string.
+(2) If there are integrals, please do the following:
+    1. Start the response with ```latex
+    2. Only include the TeX form of the integrals
+    3. If there is more than one integral, separate them by newlines.
+    4. If there is a curly brace underneath an integral, there will be an apostrophe 
+       followed by an s somewhere.
+    5. Exclude any words or titles.
+    6. End the response with ```
